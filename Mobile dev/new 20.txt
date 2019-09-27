@@ -1,0 +1,12 @@
+The development process
+
+An Android app project begins with an idea and a definition of the requirements necessary to realize that idea. You may want to sketch user interfaces (UIs) for the various app functions. To show what a UI would look like and how it would work, use drawings, mockups, and prototypes.
+
+When you are ready to start coding, you use Android Studio to go through the following steps: Android Studio development process
+
+    Create the project in Android Studio and choose an appropriate template.
+    Define a layout for each screen that has UI elements. You can place UI elements on the screen using the layout editor, or you can write code directly in the Extensible Markup Language (XML).
+    Write code using the Java programming language. Create source code for all of the app's components.
+    Build and run the app on real and virtual devices. Use the default build configuration or create custom builds for different versions of your app.©
+    Test and debug the app's logic and UI.
+    Publish the app by assembling the final APK (package file) and distributing it through channels such as Google Play.
